@@ -91,8 +91,7 @@ o	Transaction Date → Date
 
 Here is a snapshot of the final Excel dashboard:
 
-![Café Sales Dashboard Overview](.![clean_cafe_sale 1](https://github.com/user-attachments/assets/7f5d2efc-f8cb-4648-961c-1c5a999ae91d)
-
+![Café Sales Dashboard Overview](https://github.com/MISYUSENI18/CAFE-SALES-DASHBOARD/raw/main/clean_cafe_sale%201.jpg)
 
 Includes:
 - KPI cards for Total Revenue, Quantity Sold, Avg Price/Unit
@@ -144,9 +143,13 @@ These KPIs provide a snapshot of the business’s financial health and performan
 
 	Investigate the success in April to identify any repeatable campaigns, promotions, or seasonal trends that can be capitalized on in future months.
 
-####  Download the Dashboard
+#### 📥 Download the Dashboard
+
 You can download and explore the Excel file used for this analysis here:
 
-🔗 [Click to download Café Sales Dashboard Excel file](./https://github.com/MISYUSENI18/CAFE-SALES-DASHBOARD/blob/main/clean_cafe_sale.xlsx)
+🔗 [Click to download Café Sales Dashboard Excel file](https://github.com/MISYUSENI18/CAFE-SALES-DASHBOARD/raw/main/clean_cafe_sale.xlsx)
+
+
+
 
 
