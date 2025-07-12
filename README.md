@@ -14,6 +14,7 @@ The café lacks visibility into its sales trends, customer preferences, and paym
 ### METHODOLOGY
 #### Excel:
 Used to create visualizations, such as:
+
 •	Bar charts, column charts, line charts, scatter plots, and treemaps.
 
 •	KPI cards and dashboard layout to communicate insights.
@@ -49,22 +50,37 @@ Extract, Load, and Transform (ELT):
 
 •	Total Spent
 #### Cleaning & Transformation Steps:
+
 1. Handling Duplicates
+
 •	Checked all rows for duplicate entries → None found
+
 2. Handling Missing Values
+
 •	Added custom logic in Power Query:
 ###### “= if [Total Spent] = null and [Quantity] <> null and [Price Per Unit] <> null then [Quantity] * [Price Per Unit] else [Total Spent]”
 •	Similar logic applied for calculating missing Quantity or Price Per Unit
+
 •	Cells showing “ERROR” or “UNKNOWN” were replaced with “null” across all columns
+
 •	Entire Transaction column was dropped due to irrelevance or corruption
+
 3. Standardizing Data
+
 •	Categorical values cleaned (e.g., "Digital Wallet", not "wallet" or "e-wallet")
+
 •	Proper formatting applied to numeric, currency, and date columns
+
 •	Data types for each column were checked and corrected to the appropriate format:
+
 o	Quantity → Whole Number
+
 o	Price Per Unit → Decimal
+
 o	Total Spent → Currency
+
 o	Transaction Date → Date
+
 •	Transaction Date column was parsed into Day, Month, and Year components
  #### Final Load & Dashboard:
 •	A slicer for Days of the Week was added to improve interactivity and allow users to filter sales performance by weekday. This helps identify which days generate the most revenue and inform staffing or promotional decisions.
