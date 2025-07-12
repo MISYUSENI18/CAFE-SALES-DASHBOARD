@@ -87,6 +87,18 @@ o	Transaction Date → Date
 
 •	Transaction Date column was parsed into Day, Month, and Year components
  #### Final Load & Dashboard:
+ #### 📊 Dashboard Preview
+
+Here is a snapshot of the final Excel dashboard:
+
+![Café Sales Dashboard Overview](./"C:\Users\PROGRESSIVE\Pictures\clean_cafe_sale 1.jpg")
+
+Includes:
+- KPI cards for Total Revenue, Quantity Sold, Avg Price/Unit
+- Top-performing items
+- Revenue trends across time
+- Interactive slicer by day of the week
+
 •	A slicer for Days of the Week was added to improve interactivity and allow users to filter sales performance by weekday. This helps identify which days generate the most revenue and inform staffing or promotional decisions.
 
 •	Cleaned data reviewed for accuracy and completeness
@@ -131,5 +143,9 @@ These KPIs provide a snapshot of the business’s financial health and performan
 
 	Investigate the success in April to identify any repeatable campaigns, promotions, or seasonal trends that can be capitalized on in future months.
 
+####  Download the Dashboard
+You can download and explore the Excel file used for this analysis here:
+
+🔗 [Click to download Café Sales Dashboard Excel file](./C:\Users\PROGRESSIVE\Downloads\clean_cafe_sale.xlsx)
 
 
