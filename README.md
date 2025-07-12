@@ -91,7 +91,8 @@ o	Transaction Date → Date
 
 Here is a snapshot of the final Excel dashboard:
 
-![Café Sales Dashboard Overview](./"C:\Users\PROGRESSIVE\Pictures\clean_cafe_sale 1.jpg")
+![Café Sales Dashboard Overview](.![clean_cafe_sale 1](https://github.com/user-attachments/assets/7f5d2efc-f8cb-4648-961c-1c5a999ae91d)
+)
 
 Includes:
 - KPI cards for Total Revenue, Quantity Sold, Avg Price/Unit
