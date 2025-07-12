@@ -80,10 +80,15 @@ These KPIs provide a snapshot of the business’s financial health and performan
 •	Total revenue surpassed $88,000 with 30,000+ items sold, indicating a healthy volume of sales.
 •	Items like Tea and Water are high in quantity but low in revenue, signaling potential for upselling or pricing strategy adjustments.
 #### RECOMMENDATIONS
-•	Ensure complete and accurate data entry: Several records had only one of the three core financial columns filled (e.g., only Quantity, or only Price Per Unit), which made it impossible to compute the missing values. Staff should be trained to ensure every transaction has all necessary fields recorded correctly: Quantity, Price Per Unit, and Total Spent.
-•	Continue promoting top-selling items like Salad, while exploring bundled offers or loyalty rewards to encourage repeat purchases.
-•	Reevaluate low-revenue items to determine if price adjustments or packaging could improve profitability.
-•	Leverage Digital Wallets by offering incentives or faster checkout options, as they are the preferred payment method.
-•	Investigate the success in April to identify any repeatable campaigns, promotions, or seasonal trends that can be capitalized on in future months.
+	Ensure complete and accurate data entry: Several records had only one of the three core financial columns filled (e.g., only Quantity, or only Price Per Unit), which made it impossible to compute the missing values. Staff should be trained to ensure every transaction has all necessary fields recorded correctly: Quantity, Price Per Unit, and Total Spent.
+
+	Continue promoting top-selling items like Salad, while exploring bundled offers or loyalty rewards to encourage repeat purchases.
+
+	Reevaluate low-revenue items to determine if price adjustments or packaging could improve profitability.
+
+	Leverage Digital Wallets by offering incentives or faster checkout options, as they are the preferred payment method.
+
+	Investigate the success in April to identify any repeatable campaigns, promotions, or seasonal trends that can be capitalized on in future months.
+
 
 
