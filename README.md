@@ -147,6 +147,6 @@ These KPIs provide a snapshot of the business’s financial health and performan
 ####  Download the Dashboard
 You can download and explore the Excel file used for this analysis here:
 
-🔗 [Click to download Café Sales Dashboard Excel file](./C:\Users\PROGRESSIVE\Downloads\clean_cafe_sale.xlsx)
+🔗 [Click to download Café Sales Dashboard Excel file](.https://github.com/MISYUSENI18/CAFE-SALES-DASHBOARD/blob/main/clean_cafe_sale.xlsx)
 
 
