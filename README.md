@@ -27,6 +27,7 @@ Power Query (inside Excel):
 •	Loaded the dirty dataset
 
 •	Transformed and cleaned the data:
+
 o	Extracted Day, Month, and Year from the Transaction Date
 
 o	Handled null, missing, and inconsistent values
