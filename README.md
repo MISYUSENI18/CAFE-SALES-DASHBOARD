@@ -19,10 +19,12 @@ Used to create visualizations, such as:
 •	KPI cards and dashboard layout to communicate insights.
 
 Power Query (inside Excel):
+
 •	Loaded the dirty dataset
 
 •	Transformed and cleaned the data:
 o	Extracted Day, Month, and Year from the Transaction Date
+
 o	Handled null, missing, and inconsistent values
 
 •	Close & Load back into Excel for final dashboard build
@@ -30,13 +32,21 @@ o	Handled null, missing, and inconsistent values
 Extract, Load, and Transform (ELT):
 #### Dataset Size: 10,000 rows of synthetic, intentionally messy café sales data
 #### Data Structure:
+
 •	Transaction ID: Unique identifier
+
 •	Item: Item sold (Coffee, Cake, etc.)
+
 •	Payment Method: e.g., Cash, Card, Wallet
+
 •	Location: Where the purchase was made
+
 •	Transaction Date
+
 •	Quantity
+
 •	Price Per Unit
+
 •	Total Spent
 #### Cleaning & Transformation Steps:
 1. Handling Duplicates
