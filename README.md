@@ -54,7 +54,9 @@ o	Transaction Date → Date
 •	Transaction Date column was parsed into Day, Month, and Year components
  #### Final Load & Dashboard:
 •	A slicer for Days of the Week was added to improve interactivity and allow users to filter sales performance by weekday. This helps identify which days generate the most revenue and inform staffing or promotional decisions.
+
 •	Cleaned data reviewed for accuracy and completeness
+
 •	Dashboard created in Excel:
 o	KPI Cards: Total Revenue, Total Quantity, Average Price per Unit
 o	Charts: Monthly Trends, Top Payment Method, Most Ordered Items, Revenue by Item
@@ -74,11 +76,16 @@ These KPIs provide a snapshot of the business’s financial health and performan
 5.	Which month had the highest average revenue?
 6.	What is the overall sales performance?
 #### INSIGHTS
-•	Salad recorded the highest revenue, suggesting it's a strong performer worth continued focus.
-•	Digital Wallet is the most used payment method, highlighting the importance of maintaining and promoting digital payment options.
-•	April had the highest monthly average revenue, possibly due to seasonal effects or promotions.
-•	Total revenue surpassed $88,000 with 30,000+ items sold, indicating a healthy volume of sales.
-•	Items like Tea and Water are high in quantity but low in revenue, signaling potential for upselling or pricing strategy adjustments.
+	Salad recorded the highest revenue, suggesting it's a strong performer worth continued focus.
+
+	Digital Wallet is the most used payment method, highlighting the importance of maintaining and promoting digital payment options.
+
+	April had the highest monthly average revenue, possibly due to seasonal effects or promotions.
+
+	Total revenue surpassed $88,000 with 30,000+ items sold, indicating a healthy volume of sales.
+
+	Items like Tea and Water are high in quantity but low in revenue, signaling potential for upselling or pricing strategy adjustments.
+
 #### RECOMMENDATIONS
 	Ensure complete and accurate data entry: Several records had only one of the three core financial columns filled (e.g., only Quantity, or only Price Per Unit), which made it impossible to compute the missing values. Staff should be trained to ensure every transaction has all necessary fields recorded correctly: Quantity, Price Per Unit, and Total Spent.
 
