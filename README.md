@@ -1,7 +1,7 @@
 # CAFE-SALES-DASHBOARD
 ## Café Sales Dashboard Project
 This project explores and analyzes 10,000+ café sales records using Excel and Power Query. It includes data cleaning, KPIs, business insights, and a visual dashboard.
-CAFÉ SALES DASHBOARD
+
 #### Project Title: Dirty Café Sales Dataset
 #### Introduction:
 This analysis examines the performance of sales transactions in a café. The goal is to uncover insights and provide actionable recommendations that will improve customer service and overall sales performance.
