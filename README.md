@@ -39,7 +39,7 @@ Extract, Load, and Transform (ELT):
 •	Checked all rows for duplicate entries → None found
 2. Handling Missing Values
 •	Added custom logic in Power Query:
-“= if [Total Spent] = null and [Quantity] <> null and [Price Per Unit] <> null then [Quantity] * [Price Per Unit] else [Total Spent]”
+###### “= if [Total Spent] = null and [Quantity] <> null and [Price Per Unit] <> null then [Quantity] * [Price Per Unit] else [Total Spent]”
 •	Similar logic applied for calculating missing Quantity or Price Per Unit
 •	Cells showing “ERROR” or “UNKNOWN” were replaced with “null” across all columns
 •	Entire Transaction column was dropped due to irrelevance or corruption
