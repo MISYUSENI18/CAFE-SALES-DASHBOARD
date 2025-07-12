@@ -8,8 +8,11 @@ This analysis examines the performance of sales transactions in a café. The goa
 #### Problem Statement:
 The café lacks visibility into its sales trends, customer preferences, and payment behaviors, making it difficult to strategize for growth and operational improvement.
 #### Objectives:
+
 •	Examine the performance of sales.
+
 •	Identify top-selling items, trends, and customer behaviors.
+
 •	Suggest strategies to improve services and boost sales.
 ### METHODOLOGY
 #### Excel:
