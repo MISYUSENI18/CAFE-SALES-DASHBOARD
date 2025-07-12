@@ -15,12 +15,16 @@ The café lacks visibility into its sales trends, customer preferences, and paym
 #### Excel:
 Used to create visualizations, such as:
 •	Bar charts, column charts, line charts, scatter plots, and treemaps.
+
 •	KPI cards and dashboard layout to communicate insights.
+
 Power Query (inside Excel):
 •	Loaded the dirty dataset
+
 •	Transformed and cleaned the data:
 o	Extracted Day, Month, and Year from the Transaction Date
 o	Handled null, missing, and inconsistent values
+
 •	Close & Load back into Excel for final dashboard build
 #### DATA TRANSFORMATION
 Extract, Load, and Transform (ELT):
